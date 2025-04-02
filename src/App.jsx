@@ -43,7 +43,7 @@ import ExecutionResultsDisplayComponent from './components/ExecutionResultsDispl
 import { useState } from 'react'
 
 function App() {
-    const [isSidebarOpen, setSidebarOpen] = useState(false)
+    const [isSidebarOpen, setSidebarOpen] = useState(true)
     const toggleSidebar = () => {
         setSidebarOpen(!isSidebarOpen)
     }
