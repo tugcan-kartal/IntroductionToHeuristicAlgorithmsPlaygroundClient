@@ -22,7 +22,7 @@ More algorithms can be added as needed.
 ## Installation
 To run the project locally, use npm.
 
-![Project Images](https://i.hizliresim.com/d227jpm.jpg)
-![Project Images](https://i.hizliresim.com/1wl0wuj.jpg)
+![Project Images](https://r.resimlink.com/-gL_T.jpg)
+![Project Images](https://r.resimlink.com/AMfmqw.jpg)
 
 
