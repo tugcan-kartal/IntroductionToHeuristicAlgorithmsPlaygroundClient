@@ -1,8 +1,28 @@
-# React + Vite
+# Heuristic Algorithms Execution Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This project is a web-based platform built using **React** and **Vite**, designed to execute various heuristic optimization algorithms. Users can configure and add different optimization techniques to an execution list and analyze their performance.
 
-Currently, two official plugins are available:
+## Features
+- Supports multiple heuristic optimization algorithms
+- Dynamic execution list configuration
+- Fast and interactive UI using React with Vite
+- Modular structure for easy integration of new algorithms
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Implemented Algorithms
+The platform currently includes the following heuristic algorithms:
+1. **African Vultures Optimization**
+2. **Arithmetic Optimization Algorithm**
+3. **Artificial Gorilla Troops Optimization**
+4. **Equilibrium Optimization**
+5. **Genetic Algorithm**
+
+More algorithms can be added as needed.
+
+## Installation
+To run the project locally, use npm.
+
+![Project Images](https://i.hizliresim.com/d227jpm.jpg)
+![Project Images](https://i.hizliresim.com/1wl0wuj.jpg)
+
+
