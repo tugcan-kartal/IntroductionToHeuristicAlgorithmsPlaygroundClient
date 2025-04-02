@@ -23,6 +23,5 @@ More algorithms can be added as needed.
 To run the project locally, use npm.
 
 ![Project Images](https://r.resimlink.com/-gL_T.jpg)
-![Project Images](https://r.resimlink.com/AMfmqw.jpg)
 
 
